@@ -1,0 +1,60 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	"editor.tabCompletion": "on",
+	"workbench.editor.enablePreview": false,
+	"workbench.editor.enablePreviewFromQuickOpen": false,
+	"editor.quickSuggestions": {
+		"other": true,
+		"comments": true,
+		"strings": true
+	},
+	"terminal.external.windowsExec": "C:\\cmder_mini\\Cmder.exe",
+	"terminal.integrated.shellArgs.windows": ["/K", "C:\\cmder_mini\\vendor\\init.bat"],
+	"terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\cmd.exe",
+	"window.menuBarVisibility": "visible",
+	"editor.minimap.enabled": false,
+	"workbench.startupEditor": "newUntitledFile",
+	"explorer.confirmDragAndDrop": false,
+	"explorer.confirmDelete": false,
+	"javascript.preferences.importModuleSpecifier": "relative",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorTheme": "Dracula",
+	"editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+	"editor.fontLigatures": true,
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"sync.gist": "635760af2ed93610e7edbd34002e9c5a",
+	"[javascript]": {
+		"editor.formatOnPaste": true,
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.renderControlCharacters": false,
+	"telemetry.enableTelemetry": false,
+	"rest-client.enableTelemetry": false,
+	"workbench.editor.highlightModifiedTabs": true,
+	"javascript.preferences.quoteStyle": "single",
+	"terminal.integrated.rendererType": "dom",
+	"prettier.printWidth": 160,
+	"prettier.singleQuote": true,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"editor.wordWrapColumn": 160,
+	"html.format.wrapLineLength": 160,
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"search.useReplacePreview": false,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"liveServer.settings.donotVerifyTags": true,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"prettier.jsxSingleQuote": true,
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
